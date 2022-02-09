@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am a _great_ person with *brilliant*  skills and __valuable__ perspectives. I am by far _the **best**_
